@@ -1,4 +1,4 @@
-import { AbrigoAnimais } from './src/abrigoanimais.js';
+import { AbrigoAnimais } from './abrigoanimais.js';
 
 
 
